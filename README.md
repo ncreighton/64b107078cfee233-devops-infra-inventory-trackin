@@ -1,0 +1,2 @@
+# 64b107078cfee233-devops-infra-inventory-trackin
+DevOps engineers and platform teams waste hours on switching between tabs and losing context. This fixes that.  Under 1MB. Zero performance impact on browser speed. Privacy-first: all processing stays local, no data sent to third-party servers.  ## What's Included  - Devops Infra Inventory Tracking And Alerts — fully configured and ready to use - O
